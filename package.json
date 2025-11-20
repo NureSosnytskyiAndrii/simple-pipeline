@@ -1,0 +1,12 @@
+{
+  "name": "ci-cd-word-splitter",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for CI/CD practice",
+  "main": "src/wordSplitter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
